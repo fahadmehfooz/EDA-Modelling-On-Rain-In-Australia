@@ -12,7 +12,7 @@
 **Packages:** Pandas, NumPy, sklearn, Matplotlib, missingno, seaborn, imblearn and counter
 
 ## Data Used
-* **Data Source**: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+**Data Source**: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 ## Data Wrangling and Data Visualization
 * Null values found, filling missing values using appropriate functions.
