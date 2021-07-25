@@ -14,13 +14,21 @@
 ## Data Used
 **Data Source**: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
-## Data Wrangling and Data Visualization
+## Data Wrangling 
 * Null values found, filling missing values using appropriate functions.
 * Converting categorical columns to continuous.
 * Plotting heatmap to find the correlation between continuous features.
 * Plotting violinplots, barplots and boxplots for the features.
 * Removing the outliers.
 * Oversampling the train data to get more balanced data.
+
+## Data Visualization
+Some of the visualizations are shown here:
+
+![alt text](https://github.com/fahadmehfooz/EDA-Modelling-On-Rain-In-Australia/blob/main/images/__results___36_2.png?raw=true)
+![alt text](https://github.com/fahadmehfooz/EDA-Modelling-On-Rain-In-Australia/blob/main/images/__results___38_0.png)
+![alt text](https://github.com/fahadmehfooz/EDA-Modelling-On-Rain-In-Australia/blob/main/images/__results___46_0.png)
+
 
 ## Model Building 
 
