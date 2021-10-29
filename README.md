@@ -1,8 +1,11 @@
-# EDA-Modelling-On-Rain-In-Australia: Project Overview 
+# EDA-Modelling-On-Rain-In-Australia-With-Model-Deployment: Project Overview 
 * Predicting next day rain by training classification models on the target variable RainTomorrow.
 * Dataset contains 145460 rows and 23 columns.
 * Dealt with class imbalance using SMOTE.
 * Trained on multiple models like Logistic Regression, XGBoost, Bernoulli Naive Bayes, Gaussian Naive Bayes, and RandomForest.
+* Built the app using Flask.
+* Deployed the model on Heroku.
+
 ## Languages Used 
 **Python Version:** 3.9.0
 
@@ -57,3 +60,8 @@ I tried different models like Logistic Regression, XGBoost, Bernoulli Naive Baye
   F1 score for Bernoulli Naive Bayes is : 72.04709809011682 %
 
 * The accuracy of the Random Forest model is:  90.66402469932261 %
+
+
+# App link:
+
+https://rain-prediction-aus.herokuapp.com/
